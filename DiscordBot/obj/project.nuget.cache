@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kqlgNyEBHoC0x4yDKXVfjRCi8sGIy6wKu19MbMhBDVYbRcnNxVMfq3xv+LajSW8LJpJkui5cYrsqsSgCVX7YeA==",
+  "dgSpecHash": "Rx4cz5ClBbxoY/x15ELRiC8Lb23FOQFpj7WPfiClYL/LVYp57ykrXIWK9HpWdzyIAHYGz9lCPLgBbeRyUXqS1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andrei\\Desktop\\Projects\\andrei0809\\discord_bot\\DiscordBot\\DiscordBot\\DiscordBot.csproj",
+  "projectFilePath": "C:\\Users\\andrei\\Desktop\\Projects\\andrei0809\\DiscordBot\\DiscordBot\\DiscordBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andrei\\.nuget\\packages\\dsharpplus\\4.0.0-nightly-00743\\dsharpplus.4.0.0-nightly-00743.nupkg.sha512",
     "C:\\Users\\andrei\\.nuget\\packages\\dsharpplus.commandsnext\\4.0.0-nightly-00743\\dsharpplus.commandsnext.4.0.0-nightly-00743.nupkg.sha512",
